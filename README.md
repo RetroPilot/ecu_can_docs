@@ -1,2 +1,2 @@
-# ecu_can_docs
-Documentation for initializing and retrofitting ECUs 
+# RetroPilot ECU retrofit documentation
+This repo contains documentation for initializing and controlling various vehicle components on a test bench. The information contained here should allow the device to be retrofit into an arbitrary vehicle for use with RetroPilot.
